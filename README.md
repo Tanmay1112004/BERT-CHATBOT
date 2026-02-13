@@ -40,9 +40,13 @@ The result?
 
 ### 🎨 Gradient Background UI
 
-*(Clean gradient background for enhanced aesthetics)*
+![demo](https://github.com/Tanmay1112004/BERT-CHATBOT/blob/main/screenshots/Screenshot%202025-09-17%20111611.png)
 
-![Gradient Background](screenshots/gradient_bg.png)
+![demo](https://github.com/Tanmay1112004/BERT-CHATBOT/blob/main/screenshots/Screenshot%202025-09-17%20111742.png)
+
+![demo](https://github.com/Tanmay1112004/BERT-CHATBOT/blob/main/screenshots/chat_ui.png.png) 
+
+![demo](https://github.com/Tanmay1112004/BERT-CHATBOT/blob/main/screenshots/gradient_bg.png.png)
 
 ---
 
