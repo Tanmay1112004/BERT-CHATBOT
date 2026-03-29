@@ -23,15 +23,7 @@ This demonstrates practical NLP system design using transformer-based models.
 
 ## 🖼️ Application Preview
 
-### 💬 WhatsApp-Style Chat Interface
 
-![Image](https://global.discourse-cdn.com/streamlit/optimized/2X/1/1c3534b3700888360426b38076a3d2e639c90c64_2_690x388.png)
-
-![Image](https://cdn.shopify.com/app-store/listing_images/7c6bb53389031b6758686d279ceea646/desktop_screenshot/CO3Tnb6vhpEDEAE%3D.png?height=720\&width=1280)
-
-![Image](https://global.discourse-cdn.com/streamlit/optimized/3X/5/3/53d052dd9cb413893695f81eb3e524a955a96970_2_467x499.jpeg)
-
-![Image](https://global.discourse-cdn.com/streamlit/original/2X/9/9d57e2c8dfd595a30a2f5ce8a1db93519ba34d02.png)
 
 ---
 
